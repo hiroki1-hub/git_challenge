@@ -1,2 +1,2 @@
-Hello,worid!
-こんばんは、世界!
+hello,world
+こんばんは、世界！
